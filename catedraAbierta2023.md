@@ -87,7 +87,7 @@ El concepto de metaverse va a combinar la conectividad de la web con la inmersiv
 
 # Educar para el desarrollo sostenible
 
-# Rediseñar 
+# Rediseñar ... Un nuevo propósito
 
 ## Centrar la educación en la vida
 ## Para el desarrollo sostenible interior y colectivo.
@@ -154,5 +154,6 @@ El concepto de metaverse va a combinar la conectividad de la web con la inmersiv
 
 # Voy en este punto... y seguiré buscando la respuesta
 -->
+
 
 # Y ustedes ¿Qué oportunidad ven?
