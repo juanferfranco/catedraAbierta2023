@@ -108,12 +108,28 @@ theme: myTheme
 
 ---
 
+# Con inteligencia artificial podemos adaptar la transmisión de conocimiento
+
+---
+
+# Para personalizar la educación
+
+---
+
+# Liberando "ancho de banda" para desplegar esos conocimientos al servicio de la vida
+
+---
+
+# Con creatividad y empatía... ¡Juntos!
+
+---
+
 # En conclusión
 
 ---
 
 # La IA nos ofrece una oportunidad:
-# Parar para Reflexionar y Diseñar
+# Diseñar una educación centrada en la vida
 
 ---
 
