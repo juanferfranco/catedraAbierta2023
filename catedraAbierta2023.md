@@ -65,7 +65,7 @@ theme: myTheme
 ---
 
 # Cambia el medio, 
-# pero no cambia la forma
+# pero no cambia el propósito
 
 ---
 
@@ -73,7 +73,7 @@ theme: myTheme
 
 ---
 
-# ¿Por qué rediseñar?
+# ¿Por qué?
 
 ---
 
@@ -87,7 +87,7 @@ theme: myTheme
 
 ---
 
-# Rediseñar con un nuevo propósito
+# Diseñar con un nuevo propósito
 
 ---
 
@@ -109,7 +109,7 @@ theme: myTheme
 ---
 
 # La IA nos ofrece una oportunidad:
-# Parar para reflexionar y rediseñar
+# Parar para Reflexionar y Diseñar
 
 ---
 

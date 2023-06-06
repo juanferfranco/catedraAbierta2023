@@ -2,5 +2,6 @@
 {
     "markdown.marp.themes": [
       "./themes/myTheme.css"
-    ]
+    ],
+    "cSpell.language": "es"
 }
