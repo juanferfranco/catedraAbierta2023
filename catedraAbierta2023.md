@@ -39,11 +39,11 @@ theme: myTheme
 ![bg contain](assets/lecturingCirca.jpg)
 ![bg contain](assets/lecture1736.jpg)
 ![bg contain](assets/lecture1870.jpg)
+![bg contain](assets/lecture2010.jpg)
 
 ---
 
 # 
-![bg contain](assets/lecture2010.jpg)
 ![bg contain](assets/lecture2021.png)
 
 ---
