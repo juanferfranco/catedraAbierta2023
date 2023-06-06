@@ -83,6 +83,10 @@ theme: myTheme
 
 ---
 
+# Les cuento qué pasó con mis clases este 2023-10
+
+---
+
 # Educar para el desarrollo sostenible
 
 ---
