@@ -4,7 +4,7 @@ theme: myTheme
 ---
 
 # Educación 2030: el futuro sostenible impulsado por la I.A
-## Una oportunidad para diseñar   
+## ¿Cuál es la oportunidad?
 
 ---
 
@@ -20,14 +20,7 @@ theme: myTheme
 ---
 
 # Consideraciones
-
----
-
-## Tengo una perspectiva OPTIMISTA
-
----
-
-## Son mis percepciones
+## Soy OPTIMISTA
 
 ---
 
@@ -64,22 +57,7 @@ theme: myTheme
 
 ---
 
-# Cambia el medio, 
-# pero no cambia el propósito
-
----
-
-# ¿Hay una oportunidad de diseño aquí?
-
----
-
-# ¿Por qué?
-
----
-
-# Educación 2030
-
-![bg right:50%](assets/sdgs.png)
+# ¿Hay una oportunidad en este contexto?
 
 ---
 
@@ -87,19 +65,28 @@ theme: myTheme
 
 ---
 
-# Educar para el desarrollo sostenible
+# Tenemos la oportunidad de hacernos preguntas fundamentales
 
 ---
 
-# Diseñar con un nuevo propósito
+
+
+# Por ejemplo ¿Para qué educar?
 
 ---
 
-# Centrar la educación en la vida
+
+# Educación 2030
+
+![bg right:50%](assets/sdgs.png)
 
 ---
 
-# Para el desarrollo sostenible interior y colectivo.
+# Los retos de la sostenibilidad son MUY complejos y conflictivos
+---
+
+# La oportunidad que yo veo es apostar realmente por una 
+# EDUCACIÓN INTEGRAL
 
 ---
 
@@ -108,21 +95,6 @@ theme: myTheme
 
 ---
 
-# En conclusión
-
----
-
-# La IA nos ofrece una oportunidad:
-# Nos llama la atención 
-# Nos invita a pensar 
-
----
-# ¿Para qué educar? 
-
-# Para diseñar una educación desde el desarrollo sostenible interior
-
----
-
-# Y ustedes ¿Qué oportunidad ven?
+# ¿Qué oportunidades ven ustedes?
 
 ---
