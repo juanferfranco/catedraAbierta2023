@@ -23,7 +23,7 @@ theme: myTheme
 
 ---
 
-## Desde una perfectiva  OPTIMISTA
+## Tengo una perspectiva OPTIMISTA
 
 ---
 
