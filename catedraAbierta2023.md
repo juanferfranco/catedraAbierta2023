@@ -3,8 +3,8 @@ marp: true
 theme: myTheme
 ---
 
-# Educación 2030: El futuro sostenible impulsado por la I.A
-## Una oportunidad para rediseñar  
+# Educación 2030: el futuro sostenible impulsado por la I.A
+## Una oportunidad para diseñar   
 
 ---
 
